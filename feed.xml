@@ -5,7 +5,7 @@
     <link>https://github.com/heyumarkhan/socialbu-test-rss</link>
     <description>Manual RSS feed for SocialBu automation testing</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2026 05:39:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 05:42:57 GMT</lastBuildDate>
 
     <item>
       <title>Test item 5</title>
@@ -46,5 +46,14 @@
       <guid>socialbu-test-item-1</guid>
       <pubDate>Tue, 21 Apr 2026 05:35:00 GMT</pubDate>
     </item>
+  
+    <item>
+      <title>Manual trigger 05:42:57</title>
+      <description>This item was added manually to trigger SocialBu automation again.</description>
+      <link>https://example.com/socialbu-trigger-20260421-054257</link>
+      <guid>socialbu-trigger-20260421-054257</guid>
+      <pubDate>Tue, 21 Apr 2026 05:42:57 GMT</pubDate>
+    </item>
+
   </channel>
 </rss>
