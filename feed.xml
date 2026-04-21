@@ -5,14 +5,46 @@
     <link>https://github.com/heyumarkhan/socialbu-test-rss</link>
     <description>Manual RSS feed for SocialBu automation testing</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2026 05:38:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 05:39:00 GMT</lastBuildDate>
+
+    <item>
+      <title>Test item 5</title>
+      <description>This is test item 5 for SocialBu automation testing.</description>
+      <link>https://example.com/socialbu-test-item-5</link>
+      <guid>socialbu-test-item-5</guid>
+      <pubDate>Tue, 21 Apr 2026 05:39:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Test item 4</title>
+      <description>This is test item 4 for SocialBu automation testing.</description>
+      <link>https://example.com/socialbu-test-item-4</link>
+      <guid>socialbu-test-item-4</guid>
+      <pubDate>Tue, 21 Apr 2026 05:38:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Test item 3</title>
+      <description>This is test item 3 for SocialBu automation testing.</description>
+      <link>https://example.com/socialbu-test-item-3</link>
+      <guid>socialbu-test-item-3</guid>
+      <pubDate>Tue, 21 Apr 2026 05:37:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Test item 2</title>
+      <description>This is test item 2 for SocialBu automation testing.</description>
+      <link>https://example.com/socialbu-test-item-2</link>
+      <guid>socialbu-test-item-2</guid>
+      <pubDate>Tue, 21 Apr 2026 05:36:00 GMT</pubDate>
+    </item>
 
     <item>
       <title>Test item 1</title>
       <description>This is the first test item for SocialBu automation testing.</description>
       <link>https://example.com/socialbu-test-item-1</link>
       <guid>socialbu-test-item-1</guid>
-      <pubDate>Tue, 21 Apr 2026 05:38:00 GMT</pubDate>
+      <pubDate>Tue, 21 Apr 2026 05:35:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
