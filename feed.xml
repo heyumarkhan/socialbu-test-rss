@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>SocialBu Test Feed</title>
+    <link>https://github.com/heyumarkhan/socialbu-test-rss</link>
+    <description>Manual RSS feed for SocialBu automation testing</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Apr 2026 05:38:00 GMT</lastBuildDate>
+
+    <item>
+      <title>Test item 1</title>
+      <description>This is the first test item for SocialBu automation testing.</description>
+      <link>https://example.com/socialbu-test-item-1</link>
+      <guid>socialbu-test-item-1</guid>
+      <pubDate>Tue, 21 Apr 2026 05:38:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
